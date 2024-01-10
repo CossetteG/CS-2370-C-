@@ -1,0 +1,36 @@
+Notes for C++
+
+prof. Gabriel Raymer
+TA Tyler Rees
+
+email the prof. 
+
+Late work- keep it within reason and you'll get credit
+Don't be late on projects 
+code pretty fires
+
+cobol is used in banking
+
+zybooks
+-has 6 projects
+
+c is the basic assembly
+c sharp is an open-source programming language
+c+ and c++ have more 
+
+internet has been a normal thing since 1995 
+
+Module 1:
+
+hello world, user input
+
+source file > compile > object file > link > executable file 
+
+cout << (output to console)
+cin >> (input from console)  
+
+developing with repl.it 
+
+static and dynamic typing- python is dynamic, c++ is static
+you declare the type of the variable up front
+size is determined at compile time
