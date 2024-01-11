@@ -11,8 +11,8 @@ code pretty fires
 
 cobol is used in banking
 
-zybooks
--has 6 projects
+zybooks- paid for (:
+)-has 6 projects
 
 c is the basic assembly
 c sharp is an open-source programming language
